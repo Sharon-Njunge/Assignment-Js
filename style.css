@@ -1,0 +1,203 @@
+.hero-image{
+    background-image: url(./images5/mountain.jpg);
+    height: 800px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+    border-radius: 30px;
+   margin: 0 auto;
+   color: white;
+   font-size: 20px;
+   width: 80%;
+}
+.nav-body{
+    text-align: center;
+    
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 40px;
+}
+.button1{
+    text-align: center;
+  
+}
+button{
+    background-color: orangered;
+    font-size: 25px;
+    border-radius: 20px;
+}
+.beach-body{
+    text-align: center;
+    padding-right: 300px;
+
+}
+.beach-image{
+    display: flex;
+    padding-left: 100px;
+    justify-content: space-around;
+}
+.beach-text{
+    display: flex;
+    padding-left: 100px;
+    justify-content: space-around;
+}
+.beach-cash{
+    display: flex;
+    padding-left: 320px;
+   justify-content: space-around;
+}
+.cash1{
+    display: flex;
+}
+.cash2{
+    display: flex;
+}
+.cash3{
+    display: flex;
+}
+.cashe1{
+    padding-bottom: 60px;
+}
+.arrows{
+    text-align: center;
+}
+.unique{
+    text-align: center;
+}
+.unique-body{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+    text-align: center;
+}
+.nav1{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 70px;
+}
+.nav2{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 70px;
+    background-color: orangered;
+    color: white;
+}
+.nav3{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 70px;
+
+}
+.nav4{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 70px;
+}
+.nav5{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 70px;
+}
+.nav6{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 70px;
+}
+.middle-nav{
+    padding-left: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.middle-images{
+    display: flex;
+    padding-left: 100px;
+    gap: 100px;
+}
+.header2{
+   padding-left: 100px;
+   display: flex;
+   justify-content: space-around;
+}
+.stars{
+    padding-left: 100px;
+    display: flex;
+   justify-content: space-around;
+
+}
+.reviews{
+    padding-left: 100px;
+    display: flex;
+   justify-content: space-around;
+
+}
+h5{
+    font-size: 60px;
+}
+.review-images{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.review-one{
+    display: flex;
+}
+.review-two{
+    display: flex;
+}
+.review-three{
+    display: flex;
+}
+.blog{
+    text-align: center;
+}
+.blog-body{
+    padding-left: 100px;
+    display: flex;
+    gap: 100px;
+}
+.form{
+    /* padding-left: 400px; */
+    display: flex;
+    border: 1px solid;
+    width: 50%;
+    background-color: orangered;
+    color: white;
+   justify-content: center;
+   margin: 0 auto;
+}
+.bottom{
+    background-image: url(./images5/Trees.avif);
+}
+.top{
+    text-align: center;
+    padding-top: 60px;
+}
+.buttons{
+    display: flex;
+    padding-left: 700px;
+    gap: 50px;
+}
+.bottom{
+    height: 600px;
+}
+.lower-part{
+    text-align: center;
+}.footer{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    font-size: 20px;
+}
+@media screen and (max-width: 1300px){
+    
+}
+
+
